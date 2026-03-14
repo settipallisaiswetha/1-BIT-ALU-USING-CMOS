@@ -103,3 +103,4 @@ Each block generates one output, and all outputs are connected to the **MUX_8TO1
 ## Conclusion
 This project demonstrates the design of a **1-bit ALU using CMOS logic** in NI Multisim.  
 It combines transistor-level logic design with multiplexer-based function selection, making it useful for understanding both **digital electronics** and **CMOS circuit implementation**.
+
